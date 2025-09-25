@@ -1,0 +1,49 @@
+{
+  "@@locale": "ar",
+  "appTitle": "FurniFy",
+  "tagline": "نسّق مساحتك، وبسّط حياتك",
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "signup_title": "إنشاء حساب",
+  "signup_subtitle": "انضم إلى FurniFy اليوم",
+  "signup_fullName": "الاسم الكامل",
+  "signup_fullName_hint": "أدخل اسمك الكامل",
+  "signup_email": "البريد الإلكتروني",
+  "signup_email_hint": "أدخل بريدك الإلكتروني",
+  "signup_password": "كلمة المرور",
+  "signup_password_hint": "أدخل كلمة المرور",
+  "signup_confirmPassword": "تأكيد كلمة المرور",
+  "signup_confirmPassword_hint": "أعد إدخال كلمة المرور",
+  "signup_button": "إنشاء حساب",
+  "signup_success_title": "تم بنجاح!",
+  "signup_success_message": "تم إنشاء الحساب بنجاح",
+  "signup_close": "إغلاق",
+  "error_fullName_required": "الاسم الكامل مطلوب",
+  "error_fullName_uppercase": "يجب أن يبدأ الاسم بحرف كبير",
+  "error_email_required": "البريد الإلكتروني مطلوب",
+  "error_email_invalid": "أدخل بريد إلكتروني صالح",
+  "error_password_required": "كلمة المرور مطلوبة",
+  "error_password_short": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+  "error_confirm_required": "تأكيد كلمة المرور مطلوب",
+  "error_passwords_mismatch": "كلمتا المرور غير متطابقتين",
+  "signin_title": "مرحبًا بعودتك",
+  "signin_subtitle": "سجّل الدخول إلى FurniFy",
+  "signin_email": "البريد الإلكتروني",
+  "signin_email_hint": "أدخل بريدك الإلكتروني",
+  "signin_password": "كلمة المرور",
+  "signin_password_hint": "أدخل كلمة المرور",
+  "signin_button": "تسجيل الدخول",
+  "signin_success_title": "مرحبًا!",
+  "signin_success_message": "تم تسجيل الدخول بنجاح",
+  "signin_close": "إغلاق",
+  "error_email_required_signin": "البريد الإلكتروني مطلوب",
+  "error_email_invalid_signin": "أدخل بريدًا إلكترونيًا صالحًا",
+  "error_password_required_signin": "كلمة المرور مطلوبة",
+  "error_password_short_signin": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+  "shopping_title": "منتجاتنا",
+  "shopping_featured": "منتجات مميزة",
+  "shopping_collection": "تسوق مجموعتنا",
+  "shopping_hotOffers": "🔥عروض ساخنة🔥",
+  "shopping_itemAdded": "تمت إضافة العنصر إلى السلة",
+  "shopping_itemAdded_detail": "{item} تمت إضافته إلى سلة مشترياتك"
+}
